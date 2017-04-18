@@ -8,4 +8,6 @@ public class TryBinaryTree {
             numbers[i] = (int)(1000.0 * Math.random());
         }
     }
+    //test from work
+    System.out.printlln("" + numbers[i]);
 }
